@@ -1,1 +1,0 @@
-fpt -F ODH61M03.BIN
