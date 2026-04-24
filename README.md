@@ -1,1 +1,2 @@
-# fireware
+.ffs为nvme模块
+按照主板厂商以及芯片组分类
